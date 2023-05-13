@@ -1,5 +1,6 @@
 inicio(q0).
 final(q2).
+
 p(q0,a,q0).
 p(q0,ε,q1).
 p(q1,b,q1).
